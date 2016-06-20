@@ -1,0 +1,7 @@
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\bin\Debug\RegToDatabase.exe.config
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\bin\Debug\RegToDatabase.exe
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\bin\Debug\RegToDatabase.pdb
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\obj\Debug\RegToDatabase.csprojResolveAssemblyReference.cache
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\obj\Debug\RegToDatabase.exe
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\obj\Debug\RegToDatabase.pdb
+c:\users\axiomdev\documents\visual studio 2013\Projects\RegToDatabase\RegToDatabase\bin\Debug\MySql.Data.dll
